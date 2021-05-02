@@ -1,19 +1,19 @@
-// MENU-BTN
+// // MENU-BTN
 
-function myFunction(x) {
-    x.classList.toggle("change");
-
-
-    let b = document.querySelector(".container");
-    let g = document.querySelector("nav-side");
+// function myFunction(x) {
+//     x.classList.toggle("change");
 
 
-    if (g.style.display === "none") {
+//     let b = document.querySelector(".container");
+//     let g = document.querySelector("nav-side");
 
-        g.style.display = "flex";
-    } else {
 
-        g.style.display = "none";
-    }
+//     if (g.style.display === "none") {
 
-}
+//         g.style.display = "flex";
+//     } else {
+
+//         g.style.display = "none";
+//     }
+
+// }
